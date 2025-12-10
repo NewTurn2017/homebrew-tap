@@ -2,7 +2,7 @@ class RemoveGeminiLogo < Formula
   desc "Mac app to batch remove Gemini logos from images"
   homepage "https://github.com/NewTurn2017/remove-gemini-logo"
   url "https://github.com/NewTurn2017/remove-gemini-logo/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "6145f9c0d96927bba36a789428be822e9ebdb58edbce3fc2dc26465a676ae953"
   license "MIT"
 
   depends_on "python@3.12"
