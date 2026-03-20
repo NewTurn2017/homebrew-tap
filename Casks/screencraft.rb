@@ -2,12 +2,12 @@ cask "screencraft" do
   version "1.2.1"
 
   on_arm do
-    sha256 "a6310e86bda2d3ef5fec967d6d5d0556a58d6e4529b576fdc74a8f367eacaa38"
+    sha256 "237dde384d27cac13db84c51f44aeffca12a9107fa568a187092708e6c113cc9"
     url "https://github.com/NewTurn2017/ScreenCraft/releases/download/v1.2.1/ScreenCraft-arm64.dmg"
   end
 
   on_intel do
-    sha256 "8ccaef11bd06363cc22063fb39822731ae3f949432a126d4c68822bb3777eb65"
+    sha256 "0270333fb7e235f01b133f0f58f9440fbfd57817337923b6018ef488ee10e1da"
     url "https://github.com/NewTurn2017/ScreenCraft/releases/download/v1.2.1/ScreenCraft-x64.dmg"
   end
 
