@@ -7,8 +7,8 @@
 class Stopcat < Formula
   desc "Mac cleanup TUI that stops only what you don't need, by project and AI session"
   homepage "https://github.com/NewTurn2017/stopcat"
-  url "https://github.com/NewTurn2017/stopcat/releases/download/v0.2.0/stopcat-v0.2.0-macos-universal.tar.gz"
-  sha256 "cf657cc43e0e374ee190014fd67ece3fc98854929cead32bab57db6c985992df"
+  url "https://github.com/NewTurn2017/stopcat/releases/download/v0.2.1/stopcat-v0.2.1-macos-universal.tar.gz"
+  sha256 "c79135c8be8620735581f4339629faaf0b6e955ac1c62d8fda564cb891f6d24b"
   license "MIT"
 
   depends_on :macos
